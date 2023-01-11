@@ -22,6 +22,7 @@ body{
     margin-bottom: .9rem;   
 }
 .perfil{
+    padding: 2px;
     max-width: 300px;
     max-height: 300px;
     border-radius: 50%;
@@ -43,7 +44,7 @@ body{
     border: 1px solid var(--purple);
     margin-bottom: .9rem;
     width: 40%;
-    padding: 12px 10rem;
+    padding: 12px;
     text-align: center;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -56,3 +57,18 @@ body{
     gap: 1.183rem;
     margin: 20px 30px 30px 30px;
 }
+@media screen and (min-width: 900px) {
+    .links-container > a {
+      max-width: 40%;
+    }
+  }
+  @media screen and (min-width: 400px) {
+    .links-container > a {
+      width: 70%;
+    }
+  }
+  @media screen and (min-width: 200px) {
+    .links-container > a {
+      width: 70%;
+    }
+  }
