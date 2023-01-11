@@ -16,7 +16,7 @@ body{
     justify-content: center;
 }
 .avatar-container{
-    margin-top: 6%;
+    margin-top: 3.5%;
     text-align: center;
     color: var(--purple);
     margin-bottom: .9rem;   
@@ -43,7 +43,6 @@ body{
     text-transform: uppercase;
     border: 1px solid var(--purple);
     margin-bottom: .9rem;
-    width: 40%;
     padding: 12px;
     text-align: center;
     overflow: hidden;
@@ -59,7 +58,7 @@ body{
 }
 @media screen and (min-width: 900px) {
     .links-container > a {
-      max-width: 40%;
+      max-width: 35%;
     }
   }
   @media screen and (min-width: 400px) {
