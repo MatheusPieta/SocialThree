@@ -1,5 +1,5 @@
 :root{
-    --body-bg-color: #FAF7FD;
+    --body-bg-color: #141414;
     --purple: #BB99DD;
 }
 *{
@@ -10,6 +10,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: var(--body-bg-color);
+    color: var(--purple);
 }
 .content{
     align-items: center;
@@ -19,12 +20,13 @@ body{
     margin-top: 3.5%;
     text-align: center;
     color: var(--purple);
-    margin-bottom: .9rem;   
+    margin-bottom: .9rem;
+    font-weight: 600;   
 }
 .perfil{
     padding: 2px;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 280px;
+    max-height: 280px;
     border-radius: 50%;
     border: solid var(--purple);
 }
