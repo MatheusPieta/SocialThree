@@ -18,7 +18,7 @@ Um SocialThree é basicamente um Card de visitas para quem quer conhecer mais so
 <br>
 
 <p align="center">
-  <img alt="Projeto SocialThre" src=".github/preview.png" width="100%">
+  <img alt="Projeto SocialThre" src=".github/preview.png">
 </p>
 
 ## 🚀 Tecnologias
