@@ -18,7 +18,7 @@ Um SocialThree é basicamente um Card de visitas para quem quer conhecer mais so
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.png" width="100%">
+  <img alt="Projeto SocialThre" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,14 +26,13 @@ Um SocialThree é basicamente um Card de visitas para quem quer conhecer mais so
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 ## 💻 Projeto
 
 Um SocialThree é basicamente um Card de visitas para quem quer conhecer mais sobre você e seus projetos
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://matheuspieta.github.io/SocialThree/)
 
 ## :memo: Licença
 
